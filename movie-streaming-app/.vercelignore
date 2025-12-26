@@ -1,0 +1,12 @@
+# Vercel Deployment Configuration
+# This file is automatically created by Vercel
+
+# No special configuration needed - Next.js is auto-detected
+# Vercel will automatically:
+# - Install dependencies
+# - Run `npm run build`
+# - Deploy to edge network
+# - Enable automatic HTTPS
+# - Provide preview deployments for branches
+
+# For custom configuration, you can add a vercel.json file
